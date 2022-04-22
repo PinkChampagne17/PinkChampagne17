@@ -1,14 +1,6 @@
 ## 👋 Hi there, I'm PinkChampagne17
 
-![Visitors badge](https://visitor-badge.glitch.me/badge?page_id=PinkChampagne17.PinkChampagne17)
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Metrics](https://metrics.lecoq.io/PinkChampagne17?template=classic&languages=1&languages.ignored=html%2C%20css%2C%20scss&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=percentage&languages.indepth=false&languages.analysis.timeout=15&languages.categories=programming&languages.recent.categories=programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTaipei)
 
 ### 📋 About me
 
@@ -18,12 +10,15 @@
 
 - 💕 Open source enthusiast
 
-### 📫 Where to contact me
-
 - 📧 [Email](mailto:pc17.github@outlook.com)
 
 - 📖 [My blog](https://pinkchampagne17.github.io/blog/)
 
-![PinkChampagne17's github stats](https://github-readme-stats.vercel.app/api?username=PinkChampagne17&count_private=true&show_icons=true&hide=prs)
+<p style="margin-top: 20px; display: flex; gap:50px;">
+<a href="https://www.typescriptlang.org/" title="Typescript"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="50/px" height="50px"></a>
+<a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="50px" height="50px"></a>
+<a href="https://vuejs.org/" title="Vue.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="Vue.js" width="50px" height="50px"></a>
+<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="50px" height="50px"></a>
+<a href="https://golang.org/" title="Go"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Go" width="50px" height="50px"></a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PinkChampagne17&layout=compact&hide=html,css,stylus)
+</p>
