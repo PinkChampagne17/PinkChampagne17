@@ -8,5 +8,4 @@
 
 
 [Email](mailto:pc17.github@outlook.com) ·
-[Blog](https://pinkchampagne17.github.io/blog) ·
-[Homepage (staging)](https://pinkchampagne17.github.io/stg/hp)
+[Homepage](https://pinkchampagne.moe)
