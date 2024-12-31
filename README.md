@@ -8,4 +8,4 @@
 - 🕹️ Toy project maker
 
 [Email](mailto:pc17.github@outlook.com) ·
-[Homepage](https://pinkchampagne.moe)
+[Homepage](https://pcp.moe)
